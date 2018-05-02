@@ -1,0 +1,5 @@
+﻿Конспект теории
+https://docs.google.com/document/d/1IgmdHDEbSt8MFWlWkbf6r-5WlrBLMlJX0W3ChTPfdro/edit?usp=sharing
+
++установил sublime(Дима сказал что атом отстой)
++xampp
